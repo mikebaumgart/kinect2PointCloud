@@ -1,2 +1,4 @@
 * Kinect2PointCloud
-a class obtain point cloud (opencv Mat type) from Kinect2 based on libfreenect2
+a class obtain point cloud from Kinect2 based on libfreenect2, the point cloud
+is a 1920*1080 cv::Mat CV_32FC3(x,y,z) which is related to 1920*1080 color Image.
+
