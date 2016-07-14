@@ -1,0 +1,2 @@
+* Kinect2PointCloud
+a class obtain point cloud (opencv Mat type) from Kinect2 based on libfreenect2
